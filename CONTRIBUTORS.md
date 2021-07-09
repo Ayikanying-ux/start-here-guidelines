@@ -7370,4 +7370,4 @@
 
 -[@mdfakih](https://github.com/mdfakih/)
 
--[Ayikanying-ux](https://github.com/Ayikanying-ux/)
+-[@Ayikanying-ux](https://github.com/Ayikanying-ux/)
